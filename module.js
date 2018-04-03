@@ -1,4 +1,4 @@
-const addon = require('node-orangepi-dht11-sensor');
+const addon = require('bindings')('module')
 var sleep = require('sleep');
 addon.setPin(7);
 

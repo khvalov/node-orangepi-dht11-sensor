@@ -1,7 +1,7 @@
 {
     "targets": [{
-        "target_name": "node-orangepi-dht11-sensor",
-        "sources": [ "./src/node-orangepi-dht11-sensor.c" ],
+        "target_name": "module",
+        "sources": [ "./src/module.c" ],
 	"libraries": [ "-lwiringPi" ]
     }]
 }
