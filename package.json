@@ -1,5 +1,5 @@
 {
-  "name": "Low-level reading DHT11 sensor data using wiringPi lib (OrangePI)",
+  "name": "node-orangepi-dht11-sensor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
